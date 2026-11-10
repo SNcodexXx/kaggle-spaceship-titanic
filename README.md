@@ -1,4 +1,4 @@
-# Spaceship Titanic – Kaggle Competition
+# Spaceship Titanic: Kaggle Competition
 
 **Ссылка на соревнование:** [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)  
 **Итоговый результат:** топ 15% (~273 место)
@@ -9,8 +9,8 @@
 
 Были добавлены следующие фичи:
 
-- `total_spend` – сумма всех трат  
-- `No_spending` / `Luxury_spend` – индикаторы нулевых трат (True/False) и объема ненулевых расходов  
+- `total_spend`: сумма всех трат  
+- `No_spending` / `Luxury_spend`: индикаторы нулевых трат (True/False) и объема ненулевых расходов  
 - Заполнение части пропусков происходило исходя из групп пассажиров  
 
 ---
